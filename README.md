@@ -1,1 +1,1 @@
-# Class-22-Solar_Energy
+# solar_power
